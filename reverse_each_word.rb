@@ -1,5 +1,5 @@
 def reverse_each_word()
-    .reverse do ||
+    .each do ||
   puts
-end
+ end
 end
