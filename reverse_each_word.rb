@@ -7,3 +7,5 @@ end
 def reverse_each_word()
     .collect do ||
     puts
+  end
+end
