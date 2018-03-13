@@ -1,7 +1,6 @@
 def reverse_each_word(sentence)
     .each do ||
-  puts
- end
+  word.reverse
 end
 
 def reverse_each_word()
